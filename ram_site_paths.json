@@ -1,0 +1,966 @@
+[
+    {
+        "title": "Plan du site",
+        "url": "https://www.royalairmaroc.com/ma-fr/site-map",
+        "path": "/ma-fr/site-map"
+    },
+    {
+        "title": "Aller à la page accueil",
+        "url": "https://www.royalairmaroc.com/ma-fr",
+        "path": "/ma-fr"
+    },
+    {
+        "title": "Réserver Tapez sur Entr pour ouvrir le menu Tapez sur Entr pour fermer le menu",
+        "url": "https://www.royalairmaroc.com/ma-fr/reservation",
+        "path": "/ma-fr/reservation"
+    },
+    {
+        "title": "Acheter un billet",
+        "url": "https://www.royalairmaroc.com/ma-fr/booking/book-a-flight",
+        "path": "/ma-fr/booking/book-a-flight"
+    },
+    {
+        "title": "Activités",
+        "url": "https://www.royalairmaroc.com/ma-en/coming-soon",
+        "path": "/ma-en/coming-soon"
+    },
+    {
+        "title": "Bagages supplémentaires",
+        "url": "https://www.royalairmaroc.com/ma-fr/ajouter-des-bagages-en-soute",
+        "path": "/ma-fr/ajouter-des-bagages-en-soute"
+    },
+    {
+        "title": "Sélectionner un siège",
+        "url": "https://www.royalairmaroc.com/ma-fr/choix-siege",
+        "path": "/ma-fr/choix-siege"
+    },
+    {
+        "title": "Surclassement",
+        "url": "https://www.royalairmaroc.com/ma-fr/upgrade",
+        "path": "/ma-fr/upgrade"
+    },
+    {
+        "title": "LOFT : Lounge + Fast Track",
+        "url": "https://www.royalairmaroc.com/ma-fr/loft-lounge-fast-track",
+        "path": "/ma-fr/loft-lounge-fast-track"
+    },
+    {
+        "title": "SKY Meals",
+        "url": "https://www.royalairmaroc.com/ma-fr/sky-meals",
+        "path": "/ma-fr/sky-meals"
+    },
+    {
+        "title": "S'enregistrer en ligne",
+        "url": "https://www.royalairmaroc.com/ma-fr/enregistrement",
+        "path": "/ma-fr/enregistrement"
+    },
+    {
+        "title": "Gérer ma réservation",
+        "url": "https://www.royalairmaroc.com/ma-fr/gerer-ma-reservation",
+        "path": "/ma-fr/gerer-ma-reservation"
+    },
+    
+    {
+        "title": "RAM RESALE",
+        "url": "https://www.royalairmaroc.com/ma-fr/ram-resale",
+        "path": "/ma-fr/ram-resale"
+    },
+    {
+        "title": "Découvrez les offres",
+        "url": "https://www.royalairmaroc.com/fr_ma",
+        "path": "/fr_ma"
+    },
+
+    {
+        "title": "Carte des routes",
+        "url": "https://www.royalairmaroc.com/fr_ma/carte-routes",
+        "path": "/fr_ma/carte-routes"
+    },
+    {
+        "title": "Découvrez le Maroc",
+        "url": "https://www.royalairmaroc.com/ma-fr/decouvrir-le-maroc",
+        "path": "/ma-fr/decouvrir-le-maroc"
+    },
+    {
+        "title": "oneworld",
+        "url": "https://www.royalairmaroc.com/ma-fr/oneworld",
+        "path": "/ma-fr/oneworld"
+    },
+    {
+        "title": "#DREAMAFRICA #MEETMOROCCO",
+        "url": "https://www.royalairmaroc.com/ma-fr/dreamafrica-meetmorocco",
+        "path": "/ma-fr/dreamafrica-meetmorocco"
+    },
+    {
+        "title": "Salons Royal Air Maroc",
+        "url": "https://www.royalairmaroc.com/ma-fr/salons-royal-air-maroc",
+        "path": "/ma-fr/salons-royal-air-maroc"
+    },
+    {
+        "title": "Salon des partenaires",
+        "url": "https://www.royalairmaroc.com/ma-fr/les-salons",
+        "path": "/ma-fr/les-salons"
+    },
+    {
+        "title": "Transit à l'aéroport",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/correspondance",
+        "path": "/ma-fr/information/correspondance"
+    },
+    {
+        "title": "Restauration à bord",
+        "url": "https://www.royalairmaroc.com/ma-fr/experience/repas-a-bord",
+        "path": "/ma-fr/experience/repas-a-bord"
+    },
+    {
+        "title": "Divertissement",
+        "url": "https://www.royalairmaroc.com/ma-fr/experience/divertissement",
+        "path": "/ma-fr/experience/divertissement"
+    },
+    {
+        "title": "Sièges",
+        "url": "https://www.royalairmaroc.com/ma-fr/experience/plan-des-cabines",
+        "path": "/ma-fr/experience/plan-des-cabines"
+    },
+    {
+        "title": "SKY PRESS",
+        "url": "https://www.royalairmaroc.com/ma-fr/sky-press",
+        "path": "/ma-fr/sky-press"
+    },
+    {
+        "title": "Notre flotte",
+        "url": "https://www.royalairmaroc.com/ma-fr/flotte",
+        "path": "/ma-fr/flotte"
+    },
+    {
+        "title": "DreamLiner",
+        "url": "https://www.royalairmaroc.com/ma-fr/dreamliner",
+        "path": "/ma-fr/dreamliner"
+    },
+    {
+        "title": "Applications mobile",
+        "url": "https://www.royalairmaroc.com/ma-fr/applications-mobile",
+        "path": "/ma-fr/applications-mobile"
+    },
+    {
+        "title": "Groupe de travail international « United for Wildlife »",
+        "url": "https://www.royalairmaroc.com/ma-fr/royal-air-maroc-rejoint-la-taskforce-united-for-wildlife",
+        "path": "/ma-fr/royal-air-maroc-rejoint-la-taskforce-united-for-wildlife"
+    },
+    {
+        "title": "Nouveau film des consignes de sécurité",
+        "url": "https://www.royalairmaroc.com/ma-fr/consignes-de-securite",
+        "path": "/ma-fr/consignes-de-securite"
+    },
+    {
+        "title": "Nouvel Uniforme",
+        "url": "https://www.royalairmaroc.com/ma-fr/nouvel-uniforme",
+        "path": "/ma-fr/nouvel-uniforme"
+    },
+    {
+        "title": "Nouvelle ambiance cabine",
+        "url": "https://www.royalairmaroc.com/ma-fr/nouvelle-ambiance-cabine",
+        "path": "/ma-fr/nouvelle-ambiance-cabine"
+    },
+    {
+        "title": "Economy Class",
+        "url": "https://www.royalairmaroc.com/ma-fr/classe-economique",
+        "path": "/ma-fr/classe-economique"
+    },
+    {
+        "title": "Business Class",
+        "url": "https://www.royalairmaroc.com/ma-fr/business",
+        "path": "/ma-fr/business"
+    },
+    {
+        "title": "Avant le départ",
+        "url": "https://www.royalairmaroc.com/ma-fr/before-travel",
+        "path": "/ma-fr/before-travel"
+    },
+    {
+        "title": "Formalités et Documents",
+        "url": "https://www.royalairmaroc.com/ma-fr/formalit%C3%A9s-et-documents",
+        "path": "/ma-fr/formalit%C3%A9s-et-documents"
+    },
+    {
+        "title": "Moyens de paiement",
+        "url": "https://www.royalairmaroc.com/ma-fr/moyens-paiement",
+        "path": "/ma-fr/moyens-paiement"
+    },
+    {
+        "title": "Baggage information",
+        "url": "https://www.royalairmaroc.com/ma-fr/information-bagage",
+        "path": "/ma-fr/information-bagage"
+    },
+    {
+        "title": "Conditions d'enregistrement",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/conditions-enregistrement",
+        "path": "/ma-fr/information/conditions-enregistrement"
+    },
+    {
+        "title": "Conditions tarifaires",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/conditions-tarifaires",
+        "path": "/ma-fr/information/conditions-tarifaires"
+    },
+    {
+        "title": "Assurance voyage",
+        "url": "https://www.royalairmaroc.com/ma-fr/assurance-voyage",
+        "path": "/ma-fr/assurance-voyage"
+    },
+    {
+        "title": "Besoins spéciaux",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/special-needs",
+        "path": "/ma-fr/information/special-needs"
+    },
+    {
+        "title": "Assistance spéciale",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/assistance-passagers",
+        "path": "/ma-fr/information/assistance-passagers"
+    },
+    {
+        "title": "Voyager avec des animaux",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/animaux",
+        "path": "/ma-fr/information/animaux"
+    },
+    {
+        "title": "Informations utiles",
+        "url": "https://www.royalairmaroc.com/ma-fr/preparer-votre-voyage",
+        "path": "/ma-fr/preparer-votre-voyage"
+    },
+    {
+        "title": "Repas spéciaux",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/repas-speciaux",
+        "path": "/ma-fr/information/repas-speciaux"
+    },
+    {
+        "title": "Aide et assistance",
+        "url": "https://www.royalairmaroc.com/ma-fr/help-and-support",
+        "path": "/ma-fr/help-and-support"
+    },
+    {
+        "title": "Réclamations relatives au service",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/reclamations",
+        "path": "/ma-fr/information/reclamations"
+    },
+    {
+        "title": "Assistance bagages",
+        "url": "https://www.royalairmaroc.com/ma-fr/baggage-incidents",
+        "path": "/ma-fr/baggage-incidents"
+    },
+    {
+        "title": "Perturbations de vols",
+        "url": "https://www.royalairmaroc.com/ma-fr/en-cas-d-irr%C3%A9gularit%C3%A9s-vols",
+        "path": "/ma-fr/en-cas-d-irr%C3%A9gularit%C3%A9s-vols"
+    },
+    {
+        "title": "Questions fréquentes",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/questions-frequentes",
+        "path": "/ma-fr/information/questions-frequentes"
+    },
+    {
+        "title": "Agences dans le monde entier",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/points-ventes",
+        "path": "/ma-fr/information/points-ventes"
+    },
+    {
+        "title": "Actualités",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/news",
+        "path": "/ma-fr/information/news"
+    },
+    {
+        "title": "Nous contacter",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/nous-contacter",
+        "path": "/ma-fr/information/nous-contacter"
+    },
+    {
+        "title": "Safar Flyer Tapez sur Entr pour ouvrir le menu Tapez sur Entr pour fermer le menu",
+        "url": "https://www.royalairmaroc.com/ma-fr/loyalty",
+        "path": "/ma-fr/loyalty"
+    },
+    {
+        "title": "Découvrez Safar Flyer",
+        "url": "https://www.royalairmaroc.com/ma-fr/discover-safar-flyer",
+        "path": "/ma-fr/discover-safar-flyer"
+    },
+    {
+        "title": "Comment ça marche",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/comment-ca-marche",
+        "path": "/ma-fr/safar-flyer/comment-ca-marche"
+    },
+    {
+        "title": "Safar Flyer et oneworld",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/safar-flyer-et-oneworld",
+        "path": "/ma-fr/safar-flyer/safar-flyer-et-oneworld"
+    },
+    {
+        "title": "Avantages Blue",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/avantages-blue",
+        "path": "/ma-fr/safar-flyer/avantages-blue"
+    },
+    {
+        "title": "Avantages Silver",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/avantages-silver",
+        "path": "/ma-fr/safar-flyer/avantages-silver"
+    },
+    {
+        "title": "Avantages Gold",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/avantages-gold",
+        "path": "/ma-fr/safar-flyer/avantages-gold"
+    },
+    {
+        "title": "Avantages Platinum",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/avantages-platinum",
+        "path": "/ma-fr/safar-flyer/avantages-platinum"
+    },
+    {
+        "title": "Programme Family",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/programme-family",
+        "path": "/ma-fr/safar-flyer/programme-family"
+    },
+    {
+        "title": "Programme Corporate",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/programme-corporate",
+        "path": "/ma-fr/safar-flyer/programme-corporate"
+    },
+    {
+        "title": "Accès aux salons",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/salons",
+        "path": "/ma-fr/safar-flyer/salons"
+    },
+    {
+        "title": "Gagnez et dépensez des Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/earn-and-spend-miles",
+        "path": "/ma-fr/earn-and-spend-miles"
+    },
+    {
+        "title": "Comment gagner des Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/gagnez-des-miles",
+        "path": "/ma-fr/safar-flyer/gagnez-des-miles"
+    },
+    {
+        "title": "Comment dépenser des Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/depensez-vos-miles",
+        "path": "/ma-fr/depensez-vos-miles"
+    },
+    {
+        "title": "Calculateur de Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/calculateur-de-miles",
+        "path": "/ma-fr/calculateur-de-miles"
+    },
+    {
+        "title": "Cash & Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/cash-miles",
+        "path": "/ma-fr/cash-miles"
+    },
+    {
+        "title": "Status Booster",
+        "url": "https://www.royalairmaroc.com/ma-fr/status-booster",
+        "path": "/ma-fr/status-booster"
+    },
+    {
+        "title": "Acheter et transférer des Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/achetez-et-transferez-vos-miles",
+        "path": "/ma-fr/achetez-et-transferez-vos-miles"
+    },
+    {
+        "title": "Offres Safar Flyer",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/nos-offres",
+        "path": "/ma-fr/safar-flyer/nos-offres"
+    },
+    {
+        "title": "Nos partenaires",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/nos-partenaires",
+        "path": "/ma-fr/safar-flyer/nos-partenaires"
+    },
+    {
+        "title": "Obtenez de l'aide",
+        "url": "https://www.royalairmaroc.com/ma-fr/get-help",
+        "path": "/ma-fr/get-help"
+    },
+    {
+        "title": "Obtenir mon numéro de carte",
+        "url": "https://www.royalairmaroc.com/ma-fr/numero-de-carte-oublie",
+        "path": "/ma-fr/numero-de-carte-oublie"
+    },
+    {
+        "title": "Réclamer des Miles manquants",
+        "url": "https://www.royalairmaroc.com/ma-fr/enregistrez-un-vol-manquant",
+        "path": "/ma-fr/enregistrez-un-vol-manquant"
+    },
+    {
+        "title": "J'ai oublié mon code PIN",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/pin-oublie",
+        "path": "/ma-fr/safar-flyer/pin-oublie"
+    },
+    {
+        "title": "FAQ & contact",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/assistance-et-contact",
+        "path": "/ma-fr/safar-flyer/assistance-et-contact"
+    },
+    {
+        "title": "Conditions générales Safar Flyer",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/termes-et-conditions",
+        "path": "/ma-fr/safar-flyer/termes-et-conditions"
+    },
+    {
+        "title": "Se connecter",
+        "url": "https://www.royalairmaroc.com/ma-fr/login",
+        "path": "/ma-fr/login"
+    },
+    {
+        "title": "Adhérez maintenant",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/join-us",
+        "path": "/ma-fr/safar-flyer/join-us"
+    },
+    {
+        "title": "Se connecter | S’inscrire) Se connecter | S’inscrire",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/se-connecter",
+        "path": "/ma-fr/safar-flyer/se-connecter"
+    },
+    {
+        "title": "Services spéciaux",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/demander-assistance-speciale",
+        "path": "/ma-fr/information/demander-assistance-speciale"
+    },
+    {
+        "title": "Réservation",
+        "url": "https://www.royalairmaroc.com/ma-fr/tabBooking1",
+        "path": "/ma-fr/tabBooking1"
+    },
+    {
+        "title": "Gérer / Enregistrement",
+        "url": "https://www.royalairmaroc.com/ma-fr/tabBooking3",
+        "path": "/ma-fr/tabBooking3"
+    },
+    {
+        "title": "Statut du vol",
+        "url": "https://www.royalairmaroc.com/ma-fr/tabBooking4",
+        "path": "/ma-fr/tabBooking4"
+    },
+    {
+        "title": "Vol + Train",
+        "url": "https://www.royalairmaroc.com/ma-fr/multimodal",
+        "path": "/ma-fr/multimodal"
+    },
+    {
+        "title": "Réserver un hôtel",
+        "url": "https://www.royalairmaroc.com/ma-fr/booking/hotels",
+        "path": "/ma-fr/booking/hotels"
+    },
+    {
+        "title": "Louer une voiture",
+        "url": "https://www.royalairmaroc.com/ma-fr/bookingx",
+        "path": "/ma-fr/bookingx"
+    },
+    {
+        "title": "My Driver",
+        "url": "https://www.royalairmaroc.com/ma-fr/experience/airport-transfers",
+        "path": "/ma-fr/experience/airport-transfers"
+    },
+    {
+        "title": "Activités & Attractions",
+        "url": "https://www.royalairmaroc.com/ma-fr/activities-attractions",
+        "path": "/ma-fr/activities-attractions"
+    },
+    {
+        "title": "Holidays",
+        "url": "https://www.royalairmaroc.com/ma-fr/holidays",
+        "path": "/ma-fr/holidays"
+    },
+    {
+        "title": "S'enregistrer en ligne",
+        "url": "https://www.royalairmaroc.com/ma-fr/booking/online-check-in",
+        "path": "/ma-fr/booking/online-check-in"
+    },
+    {
+        "title": "Paiement par virement bancaire",
+        "url": "https://www.royalairmaroc.com/ma-fr/payment-by-bank-transfer",
+        "path": "/ma-fr/payment-by-bank-transfer"
+    },
+    {
+        "title": "Gérer ma réservation",
+        "url": "https://www.royalairmaroc.com/ma-fr/booking/manage-booking",
+        "path": "/ma-fr/booking/manage-booking"
+    },
+    {
+        "title": "Statut des vols",
+        "url": "https://www.royalairmaroc.com/ma-fr/booking/flight-info",
+        "path": "/ma-fr/booking/flight-info"
+    },
+    {
+        "title": "Horaires des vols",
+        "url": "https://www.royalairmaroc.com/ma-fr/flight-schedule",
+        "path": "/ma-fr/flight-schedule"
+    },
+    {
+        "title": "Pay Now",
+        "url": "https://www.royalairmaroc.com/ma-fr/pay-now",
+        "path": "/ma-fr/pay-now"
+    },
+    {
+        "title": "Paiement cartes multiples",
+        "url": "https://www.royalairmaroc.com/ma-fr/paiement-partage",
+        "path": "/ma-fr/paiement-partage"
+    },
+    {
+        "title": "PAIEMENT EN ESPÈCES",
+        "url": "https://www.royalairmaroc.com/ma-fr/paiement-en-especes",
+        "path": "/ma-fr/paiement-en-especes"
+    },
+    {
+        "title": "Bagages supplémentaires",
+        "url": "https://www.royalairmaroc.com/ma-fr/add-extra-luggage",
+        "path": "/ma-fr/add-extra-luggage"
+    },
+    {
+        "title": "Réserver votre siège préféré",
+        "url": "https://www.royalairmaroc.com/ma-fr/booking/select-seat",
+        "path": "/ma-fr/booking/select-seat"
+    },
+    {
+        "title": "e-Sky Shop",
+        "url": "https://www.royalairmaroc.com/ma-fr/experience/sky-shop",
+        "path": "/ma-fr/experience/sky-shop"
+    },
+    {
+        "title": "Surclassement",
+        "url": "https://www.royalairmaroc.com/ma-fr/bizupgrade",
+        "path": "/ma-fr/bizupgrade"
+    },
+    {
+        "title": "Upgrade EN",
+        "url": "https://www.royalairmaroc.com/ma-fr/upgrade-en",
+        "path": "/ma-fr/upgrade-en"
+    },
+    {
+        "title": "PLUSGRADE EN",
+        "url": "https://www.royalairmaroc.com/ma-fr/plusgrade-en",
+        "path": "/ma-fr/plusgrade-en"
+    },
+    {
+        "title": "PLUSGRADE FR",
+        "url": "https://www.royalairmaroc.com/ma-fr/plusgrade-fr",
+        "path": "/ma-fr/plusgrade-fr"
+    },
+    {
+        "title": "Loft : Lounge + Fast2",
+        "url": "https://www.royalairmaroc.com/ma-fr/loft-lounge-fast2",
+        "path": "/ma-fr/loft-lounge-fast2"
+    },
+    {
+        "title": "Delayed Baggage Concierge",
+        "url": "https://www.royalairmaroc.com/ma-fr/delayed-baggage-concierge",
+        "path": "/ma-fr/delayed-baggage-concierge"
+    },
+    {
+        "title": "Découvrir nos offres",
+        "url": "https://www.royalairmaroc.com/ma-fr/best-offers1",
+        "path": "/ma-fr/best-offers1"
+    },
+    {
+        "title": "Other flights",
+        "url": "https://www.royalairmaroc.com/ma-fr/others",
+        "path": "/ma-fr/others"
+    },
+    
+    {
+        "title": "Les pays sans visa pour le Maroc",
+        "url": "https://www.royalairmaroc.com/ma-fr/les-pays-sans-visa-pour-le-maroc",
+        "path": "/ma-fr/les-pays-sans-visa-pour-le-maroc"
+    },
+    
+    {
+        "title": "FAMILY PACK",
+        "url": "https://www.royalairmaroc.com/ma-fr/family-pack",
+        "path": "/ma-fr/family-pack"
+    },
+    {
+        "title": "Business Class",
+        "url": "https://www.royalairmaroc.com/ma-fr/business-class",
+        "path": "/ma-fr/business-class"
+    },
+    {
+        "title": "Classe Economique",
+        "url": "https://www.royalairmaroc.com/ma-fr/economy-class",
+        "path": "/ma-fr/economy-class"
+    },
+    {
+        "title": "Parcours clients",
+        "url": "https://www.royalairmaroc.com/ma-fr/parcours-clients",
+        "path": "/ma-fr/parcours-clients"
+    },
+    {
+        "title": "Salons Royal Air Maroc",
+        "url": "https://www.royalairmaroc.com/ma-fr/royal-air-maroc-lounges",
+        "path": "/ma-fr/royal-air-maroc-lounges"
+    },
+    {
+        "title": "Salons partenaires",
+        "url": "https://www.royalairmaroc.com/ma-fr/partners-lounge",
+        "path": "/ma-fr/partners-lounge"
+    },
+    {
+        "title": "Zenith Lounge",
+        "url": "https://www.royalairmaroc.com/ma-fr/experience/zenith-lounge",
+        "path": "/ma-fr/experience/zenith-lounge"
+    },
+    {
+        "title": "Correspondance",
+        "url": "https://www.royalairmaroc.com/ma-fr/airport-transit",
+        "path": "/ma-fr/airport-transit"
+    },
+    {
+        "title": "Airport Transfer",
+        "url": "https://www.royalairmaroc.com/ma-fr/airport-transfer",
+        "path": "/ma-fr/airport-transfer"
+    },
+    {
+        "title": "Nos cabines",
+        "url": "https://www.royalairmaroc.com/ma-fr/our-cabins",
+        "path": "/ma-fr/our-cabins"
+    },
+    {
+        "title": "Repas à bord",
+        "url": "https://www.royalairmaroc.com/ma-fr/dining-on-board",
+        "path": "/ma-fr/dining-on-board"
+    },
+    {
+        "title": "Divertissement",
+        "url": "https://www.royalairmaroc.com/ma-fr/experience/entertainment",
+        "path": "/ma-fr/experience/entertainment"
+    },
+    {
+        "title": "Plan des cabines",
+        "url": "https://www.royalairmaroc.com/ma-fr/seats",
+        "path": "/ma-fr/seats"
+    },
+    {
+        "title": "Royal Air Maroc rejoint la taskforce United for Wildlife",
+        "url": "https://www.royalairmaroc.com/ma-fr/royal-air-maroc-joins-the-united-for-wildlife-taskforce",
+        "path": "/ma-fr/royal-air-maroc-joins-the-united-for-wildlife-taskforce"
+    },
+    {
+        "title": "Notre flotte",
+        "url": "https://www.royalairmaroc.com/ma-fr/our-fleet",
+        "path": "/ma-fr/our-fleet"
+    },
+    {
+        "title": "Royal Air Maroc Cargo",
+        "url": "https://www.royalairmaroc.com/ma-fr/royal-air-maroc-cargo",
+        "path": "/ma-fr/royal-air-maroc-cargo"
+    },
+    {
+        "title": "Réclamations",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/service-claims",
+        "path": "/ma-fr/information/service-claims"
+    },
+    {
+        "title": "Demander une assistance spéciale",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/special-services",
+        "path": "/ma-fr/information/special-services"
+    },
+    {
+        "title": "Nous contacter",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/contact-us",
+        "path": "/ma-fr/information/contact-us"
+    },
+    {
+        "title": "Correspondance",
+        "url": "https://www.royalairmaroc.com/ma-fr/correspondance",
+        "path": "/ma-fr/correspondance"
+    },
+    {
+        "title": "Accessibility Plan",
+        "url": "https://www.royalairmaroc.com/ma-fr/accessibility-plan",
+        "path": "/ma-fr/accessibility-plan"
+    },
+    {
+        "title": "Informations Bagages",
+        "url": "https://www.royalairmaroc.com/ma-fr/baggage-information",
+        "path": "/ma-fr/baggage-information"
+    },
+    {
+        "title": "Nouvel Uniforme",
+        "url": "https://www.royalairmaroc.com/ma-fr/nouvel-uniforme1",
+        "path": "/ma-fr/nouvel-uniforme1"
+    },
+    {
+        "title": "PROMO Paiement fractionné",
+        "url": "https://www.royalairmaroc.com/ma-fr/paiement-fractionne-promo",
+        "path": "/ma-fr/paiement-fractionne-promo"
+    },
+    {
+        "title": "Moyens de paiement",
+        "url": "https://www.royalairmaroc.com/ma-fr/booking/payment-methods",
+        "path": "/ma-fr/booking/payment-methods"
+    },
+    {
+        "title": "ASSURANCE VOYAGE",
+        "url": "https://www.royalairmaroc.com/ma-fr/travel-insurance",
+        "path": "/ma-fr/travel-insurance"
+    },
+    {
+        "title": "Paiement fractionné",
+        "url": "https://www.royalairmaroc.com/ma-fr/paiement-fractionne",
+        "path": "/ma-fr/paiement-fractionne"
+    },
+    {
+        "title": "CONDITIONS TARIFAIRES",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/fare-conditions",
+        "path": "/ma-fr/information/fare-conditions"
+    },
+    {
+        "title": "Politique de confidentialité Bénin",
+        "url": "https://www.royalairmaroc.com/ma-fr/politique-de-confidentialite1",
+        "path": "/ma-fr/politique-de-confidentialite1"
+    },
+    {
+        "title": "Conditions d'enregistrement",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/check-in-conditions",
+        "path": "/ma-fr/information/check-in-conditions"
+    },
+    {
+        "title": "Formalités",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/travel-documents",
+        "path": "/ma-fr/information/travel-documents"
+    },
+    {
+        "title": "Frais de service",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/services-fees",
+        "path": "/ma-fr/information/services-fees"
+    },
+    {
+        "title": "ATPCO",
+        "url": "https://www.royalairmaroc.com/ma-fr/atpco",
+        "path": "/ma-fr/atpco"
+    },
+    {
+        "title": "Customer Service Plan",
+        "url": "https://www.royalairmaroc.com/ma-fr/customer-service-plan",
+        "path": "/ma-fr/customer-service-plan"
+    },
+    {
+        "title": "Incidentes de equipaje",
+        "url": "https://www.royalairmaroc.com/ma-fr/incidentes-de-equipaje1",
+        "path": "/ma-fr/incidentes-de-equipaje1"
+    },
+    {
+        "title": "Nouvelle ambiance cabine",
+        "url": "https://www.royalairmaroc.com/ma-fr/nouvelle-ambiance-cabine1",
+        "path": "/ma-fr/nouvelle-ambiance-cabine1"
+    },
+    {
+        "title": "Partnerships with mlab",
+        "url": "https://www.royalairmaroc.com/ma-fr/partnerships-with-mlab",
+        "path": "/ma-fr/partnerships-with-mlab"
+    },
+    {
+        "title": "Visa pour les Émirats arabes unis",
+        "url": "https://www.royalairmaroc.com/ma-fr/informations-sur-le-visa-pour-les-aeu",
+        "path": "/ma-fr/informations-sur-le-visa-pour-les-aeu"
+    },
+    {
+        "title": "Visas et vaccins",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/visa-and-vaccinations",
+        "path": "/ma-fr/information/visa-and-vaccinations"
+    },
+    {
+        "title": "Customer Service Plan / Tarmac Delay Plan",
+        "url": "https://www.royalairmaroc.com/ma-fr/customer-service-plan-/-tarmac-delay-plan",
+        "path": "/ma-fr/customer-service-plan-/-tarmac-delay-plan"
+    },
+    {
+        "title": "Animaux",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/travel-with-animals",
+        "path": "/ma-fr/information/travel-with-animals"
+    },
+    {
+        "title": "Voyager avec des enfants",
+        "url": "https://www.royalairmaroc.com/ma-fr/children-and-pregnancy",
+        "path": "/ma-fr/children-and-pregnancy"
+    },
+    {
+        "title": "Assistance spéciale",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/special-attendance",
+        "path": "/ma-fr/information/special-attendance"
+    },
+    {
+        "title": "Repas spéciaux",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/special-meals",
+        "path": "/ma-fr/information/special-meals"
+    },
+    {
+        "title": "Mineurs non accompagnés",
+        "url": "https://www.royalairmaroc.com/ma-fr/unattendance-minors",
+        "path": "/ma-fr/unattendance-minors"
+    },
+    {
+        "title": "Services exclusifs",
+        "url": "https://www.royalairmaroc.com/ma-fr/special-services",
+        "path": "/ma-fr/special-services"
+    },
+    {
+        "title": "Passagers en situation de handicap ou à mobilité réduite",
+        "url": "https://www.royalairmaroc.com/ma-fr/reduced-mobility",
+        "path": "/ma-fr/reduced-mobility"
+    },
+    {
+        "title": "Frequently Asked Questions",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/frequently-asked-questions",
+        "path": "/ma-fr/information/frequently-asked-questions"
+    },
+    {
+        "title": "Assistance bagage",
+        "url": "https://www.royalairmaroc.com/ma-fr/baggage-assistance",
+        "path": "/ma-fr/baggage-assistance"
+    },
+    {
+        "title": "Points de ventes",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/worldwide-agencies",
+        "path": "/ma-fr/information/worldwide-agencies"
+    },
+    {
+        "title": "Objets manquants",
+        "url": "https://www.royalairmaroc.com/ma-fr/missing-items1",
+        "path": "/ma-fr/missing-items1"
+    },
+    {
+        "title": "Objets laissés à bord",
+        "url": "https://www.royalairmaroc.com/ma-fr/items-left-on-board1",
+        "path": "/ma-fr/items-left-on-board1"
+    },
+    {
+        "title": "Aide",
+        "url": "https://www.royalairmaroc.com/ma-fr/help",
+        "path": "/ma-fr/help"
+    },
+    {
+        "title": "Se connecter",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/sign-in",
+        "path": "/ma-fr/safar-flyer/sign-in"
+    },
+    {
+        "title": "Comment ça marche",
+        "url": "https://www.royalairmaroc.com/ma-fr/how-it-works",
+        "path": "/ma-fr/how-it-works"
+    },
+    {
+        "title": "Safar Flyer et oneworld",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer-and-oneworld",
+        "path": "/ma-fr/safar-flyer-and-oneworld"
+    },
+    {
+        "title": "Avantages Blue",
+        "url": "https://www.royalairmaroc.com/ma-fr/blue-benefits",
+        "path": "/ma-fr/blue-benefits"
+    },
+    {
+        "title": "Avantages Silver",
+        "url": "https://www.royalairmaroc.com/ma-fr/silver-benefits",
+        "path": "/ma-fr/silver-benefits"
+    },
+    {
+        "title": "Avantages Gold",
+        "url": "https://www.royalairmaroc.com/ma-fr/gold-benefits",
+        "path": "/ma-fr/gold-benefits"
+    },
+    {
+        "title": "Avantages Platinum",
+        "url": "https://www.royalairmaroc.com/ma-fr/platinum-benefits",
+        "path": "/ma-fr/platinum-benefits"
+    },
+    {
+        "title": "Accès aux salons",
+        "url": "https://www.royalairmaroc.com/ma-fr/lounge-areas",
+        "path": "/ma-fr/lounge-areas"
+    },
+    {
+        "title": "Comment gagner des Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/earn-miles",
+        "path": "/ma-fr/safar-flyer/earn-miles"
+    },
+    {
+        "title": "Comment dépenser des Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/how-to-spend-miles",
+        "path": "/ma-fr/how-to-spend-miles"
+    },
+    {
+        "title": "Achetez et transférez vos Miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/buy-and-transfer-miles",
+        "path": "/ma-fr/buy-and-transfer-miles"
+    },
+    {
+        "title": "Offres Safar Flyer",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/our-offers",
+        "path": "/ma-fr/safar-flyer/our-offers"
+    },
+    {
+        "title": "Nos partenaires",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/our-partners",
+        "path": "/ma-fr/safar-flyer/our-partners"
+    },
+    {
+        "title": "Dépensez vos miles",
+        "url": "https://www.royalairmaroc.com/ma-fr/depensez-vos-miles1",
+        "path": "/ma-fr/depensez-vos-miles1"
+    },
+    {
+        "title": "Our partners 2",
+        "url": "https://www.royalairmaroc.com/ma-fr/our-partners-2",
+        "path": "/ma-fr/our-partners-2"
+    },
+    {
+        "title": "Numéro de carte oublié?",
+        "url": "https://www.royalairmaroc.com/ma-fr/get-my-card-number",
+        "path": "/ma-fr/get-my-card-number"
+    },
+    {
+        "title": "Enregistrez un vol manquant",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/claim-missing-miles",
+        "path": "/ma-fr/safar-flyer/claim-missing-miles"
+    },
+    {
+        "title": "Password oublié?",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/forgot-my-pin",
+        "path": "/ma-fr/safar-flyer/forgot-my-pin"
+    },
+    {
+        "title": "Assistance & Contact",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/faq-and-contact",
+        "path": "/ma-fr/safar-flyer/faq-and-contact"
+    },
+    {
+        "title": "Conditions générales Safar Flyer",
+        "url": "https://www.royalairmaroc.com/ma-fr/safar-flyer/terms-and-conditions",
+        "path": "/ma-fr/safar-flyer/terms-and-conditions"
+    },
+    {
+        "title": "Request an Award",
+        "url": "https://www.royalairmaroc.com/ma-fr/request-an-award",
+        "path": "/ma-fr/request-an-award"
+    },
+    {
+        "title": "À propos de nous",
+        "url": "https://www.royalairmaroc.com/ma-fr/tabMenuFooter1",
+        "path": "/ma-fr/tabMenuFooter1"
+    },
+    {
+        "title": "Destinations",
+        "url": "https://www.royalairmaroc.com/ma-fr/tabMenuFooter2",
+        "path": "/ma-fr/tabMenuFooter2"
+    },
+    {
+        "title": "Aide",
+        "url": "https://www.royalairmaroc.com/ma-fr/tabMenuFooter4",
+        "path": "/ma-fr/tabMenuFooter4"
+    },
+    {
+        "title": "Questions fréquentes",
+        "url": "https://www.royalairmaroc.com/ma-fr/information/questions-frequentes1",
+        "path": "/ma-fr/information/questions-frequentes1"
+    },
+    {
+        "title": "Conditions générales",
+        "url": "https://www.royalairmaroc.com/ma-fr/tc-ram1",
+        "path": "/ma-fr/tc-ram1"
+    }
+]

@@ -1,0 +1,10 @@
+
+services:
+  ram-chatbot:
+    build: .
+    container_name: ram-chatbot
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    restart: unless-stopped
