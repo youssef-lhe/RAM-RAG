@@ -837,43 +837,43 @@
                 {
                     "chunk_id": 2,
                     "section_title": "Nos avions - Boeing 737 MAX 8",
-                    "content": "Nombre d'avions: 17\nSièges: 156/ 189\nLongueur (m): 40\nAltitude de croisière (m): 11000\nVitesse de croisière (km/h): 850",
+                    "content": "nom: Boeing 737 MAX 8\nNombre d'avions: 17\nSièges: 156/ 189\nLongueur (m): 40\nAltitude de croisière (m): 11000\nVitesse de croisière (km/h): 850",
                     "source_url": "https://www.royalairmaroc.com/ma-fr/flotte"
                 },
                 {
                     "chunk_id": 3,
                     "section_title": "Nos avions - Boeing 787-800 Dreamliner",
-                    "content": "Nombre d'avions: 7\nSièges: 274\nLongueur (m): 56\nAltitude de croisière (m): 13000\nVitesse de croisière (km/h): 900",
+                    "content": "nom: Boeing 787-800 Dreamliner\nNombre d'avions: 7\nSièges: 274\nLongueur (m): 56\nAltitude de croisière (m): 13000\nVitesse de croisière (km/h): 900",
                     "source_url": "https://www.royalairmaroc.com/ma-fr/flotte"
                 },
                 {
                     "chunk_id": 4,
                     "section_title": "Nos avions - Boeing 737-800",
-                    "content": "Nombre d'avions: 27\nSièges: 159-162\nLongueur (m): 42\nAltitude de croisière (m): 11000\nVitesse de croisière (km/h): 850",
+                    "content": "nom: Boeing 737-800\nNombre d'avions: 27\nSièges: 159-162\nLongueur (m): 42\nAltitude de croisière (m): 11000\nVitesse de croisière (km/h): 850",
                     "source_url": "https://www.royalairmaroc.com/ma-fr/flotte"
                 },
                 {
                     "chunk_id": 5,
                     "section_title": "Nos avions - Boeing 787-9 Dreamliner",
-                    "content": "Nombre d'avions: 6\nSièges: 302 / 320\nLongueur (m): 63\nAltitude de croisière (m): 13100\nVitesse de croisière (km/h): 902\nCapacité en combustible (l): 126900",
+                    "content": "nom: Boeing 787-9 Dreamliner\nNombre d'avions: 6\nSièges: 302 / 320\nLongueur (m): 63\nAltitude de croisière (m): 13100\nVitesse de croisière (km/h): 902\nCapacité en combustible (l): 126900",
                     "source_url": "https://www.royalairmaroc.com/ma-fr/flotte"
                 },
                 {
                     "chunk_id": 6,
                     "section_title": "Nos avions - Embraer 190",
-                    "content": "Nombre d'avions: 4\nSièges: 96\nLongueur (m): 36\nAltitude de croisière (m): 12500\nVitesse de croisière (km/h): 845",
+                    "content": "nom: Embraer 190\nNombre d'avions: 4\nSièges: 96\nLongueur (m): 36\nAltitude de croisière (m): 12500\nVitesse de croisière (km/h): 845",
                     "source_url": "https://www.royalairmaroc.com/ma-fr/flotte"
                 },
                 {
                     "chunk_id": 7,
                     "section_title": "Nos avions - Boeing 767-300 Cargo",
-                    "content": "Nombre d'avions: 1\nSièges: 0\nLongueur (m): 71\nAltitude de croisière (m): 11000\nVitesse de croisière (km/h): 900",
+                    "content": "nom: Boeing 767-300 Cargo\nNombre d'avions: 1\nSièges: 0\nLongueur (m): 71\nAltitude de croisière (m): 11000\nVitesse de croisière (km/h): 900",
                     "source_url": "https://www.royalairmaroc.com/ma-fr/flotte"
                 },
                 {
                     "chunk_id": 8,
                     "section_title": "Nos avions - ATR72-600",
-                    "content": "Nombre d'avions: 6\nSièges: 70\nLongueur (m): 27\nAltitude de croisière (m): 7500\nVitesse de croisière (km/h): 450",
+                    "content": "nom: ATR72-600\nNombre d'avions: 6\nSièges: 70\nLongueur (m): 27\nAltitude de croisière (m): 7500\nVitesse de croisière (km/h): 450",
                     "source_url": "https://www.royalairmaroc.com/ma-fr/flotte"
                 }
             ]

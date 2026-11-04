@@ -52,4 +52,4 @@ vector_store = FAISS.from_texts(
     metadatas=metadatas
 )
 
-vector_store.save_local("faiss_vectoriel_bd")
+vector_store.save_local("faiss_vectoriel_bd_2")

@@ -18,10 +18,38 @@ embeddings = MistralAIEmbeddings(
     api_key=MISTRAL_API_KEY
 )
 
+llm = ChatMistralAI(
+    model="ministral-3b-2512",
+    api_key=MISTRAL_API_KEY,
+    temperature=0
+)
+
 vector_store = FAISS.load_local(
-    "faiss_vectoriel_bd",
+    "faiss_vectoriel_bd_2",
     embeddings,
     allow_dangerous_deserialization=True
+)
+
+hyde_prompt = PromptTemplate(
+    input_variables=["question"],
+    template="""
+    Tu es un assistant spécialisé dans les services
+    de Royal Air Maroc.
+
+    À partir de la question suivante, rédige un passage
+    documentaire hypothétique qui pourrait répondre
+    à cette question.
+
+    Question : {question}
+
+    Passage documentaire :
+    """
+)
+
+hyde_embeddings = HypotheticalDocumentEmbedder.from_llm(
+    llm=llm,
+    base_embeddings=embeddings,
+    custom_prompt=hyde_prompt
 )
 
 retriever = vector_store.as_retriever(
@@ -41,18 +69,6 @@ reranker = CrossEncoderReranker(
 compression_retriever = ContextualCompressionRetriever(
     base_compressor=reranker,
     base_retriever=retriever
-)
-
-llm = ChatMistralAI(
-    model="ministral-3b-2512",
-    api_key=MISTRAL_API_KEY,
-    temperature=0
-)
-
-hyde_embeddings = HypotheticalDocumentEmbedder.from_llm(
-    llm=llm,
-    base_embeddings=embeddings,
-    prompt_key="web_search"
 )
 
 prompt = """
@@ -83,7 +99,7 @@ RÈGLES STRICTES :
 
 3. Gestion des informations manquantes :
 - Si le contexte ne contient pas suffisamment d'informations pour répondre,
-  indique-le clairement.
+  indique-le clairement et implicitement que tu ne peux pas répondre à la question.
 - Ne déduis pas une réponse à partir d'informations partielles.
 - Si seule une partie de la question est documentée, réponds uniquement à cette partie
   et précise ce qui reste non documenté.
@@ -121,6 +137,20 @@ QUESTION DE L'UTILISATEUR :
 RÉPONSE :
 """
 
+document_prompt = PromptTemplate(
+    input_variables=[
+        "section_title",
+    ],
+    template="""
+    [DOCUMENT]
+    Section : {section_title}
+
+    Contenu :
+    {page_content}
+    [/DOCUMENT]
+    """
+)
+
 QA_PROMPT = PromptTemplate(
     template=prompt,
     input_variables=["context", "question"]
@@ -133,7 +163,8 @@ qa_chain = RetrievalQA.from_chain_type(
     retriever=compression_retriever,
     return_source_documents=True,
     chain_type_kwargs={
-        "prompt": QA_PROMPT
+        "prompt": QA_PROMPT,
+        "document_prompt": document_prompt
     }
 )
 
@@ -158,9 +189,10 @@ def invoke_with_retry(chain, query, max_retries=3):
 
 def respond(request):
 
+    hyde_request = hyde_embeddings.embed_query(request)
     try:
         # Si request est une liste de messages LangChain
-        if isinstance(hyde_embeddings.embed_query(request), list):
+        if isinstance(hyde_request, list):
 
             # Récupérer la dernière question utilisateur
             user_messages = [
